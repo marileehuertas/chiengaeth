@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://pucoozaef.caseyrockmore.com/sitemap.xml
